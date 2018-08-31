@@ -1,2 +1,3 @@
 # hello-world
 My test repository
+A bit about myself; just a total n00b getting to grips with github...
